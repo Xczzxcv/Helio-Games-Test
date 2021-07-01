@@ -1,0 +1,23 @@
+{
+    "_patrolSpeed": [
+        1.0,
+        10.0
+    ],
+    "_patrolRadius": [
+        2.0,
+        7.0
+    ],
+    "_patrolWaitTime": [
+        0.5,
+        2.0
+    ],
+    "_patrolLuck": [
+        5,
+        7
+    ],
+    "_rollDiceRange": 5.0,
+    "_groundSize": {
+        "x": 25.0,
+        "y": 25.0
+    }
+}
